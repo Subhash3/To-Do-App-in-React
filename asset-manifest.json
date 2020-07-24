@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/To-Do-App-in-React/static/css/main.031e6795.chunk.css",
+    "main.js": "/To-Do-App-in-React/static/js/main.36657c99.chunk.js",
+    "main.js.map": "/To-Do-App-in-React/static/js/main.36657c99.chunk.js.map",
+    "runtime-main.js": "/To-Do-App-in-React/static/js/runtime-main.d9fa282d.js",
+    "runtime-main.js.map": "/To-Do-App-in-React/static/js/runtime-main.d9fa282d.js.map",
+    "static/css/2.0ac29b89.chunk.css": "/To-Do-App-in-React/static/css/2.0ac29b89.chunk.css",
+    "static/js/2.f23755c3.chunk.js": "/To-Do-App-in-React/static/js/2.f23755c3.chunk.js",
+    "static/js/2.f23755c3.chunk.js.map": "/To-Do-App-in-React/static/js/2.f23755c3.chunk.js.map",
+    "index.html": "/To-Do-App-in-React/index.html",
+    "precache-manifest.aaea0d5c18a04c7f3692a4279e6b76dc.js": "/To-Do-App-in-React/precache-manifest.aaea0d5c18a04c7f3692a4279e6b76dc.js",
+    "service-worker.js": "/To-Do-App-in-React/service-worker.js",
+    "static/css/2.0ac29b89.chunk.css.map": "/To-Do-App-in-React/static/css/2.0ac29b89.chunk.css.map",
+    "static/css/main.031e6795.chunk.css.map": "/To-Do-App-in-React/static/css/main.031e6795.chunk.css.map",
+    "static/js/2.f23755c3.chunk.js.LICENSE.txt": "/To-Do-App-in-React/static/js/2.f23755c3.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/To-Do-App-in-React/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9fa282d.js",
+    "static/css/2.0ac29b89.chunk.css",
+    "static/js/2.f23755c3.chunk.js",
+    "static/css/main.031e6795.chunk.css",
+    "static/js/main.36657c99.chunk.js"
+  ]
+}
