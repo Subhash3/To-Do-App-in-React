@@ -4,16 +4,16 @@ Check out my vanilla js version [here](https://github.com/Subhash3/To-Do-List)
 
 ##### Checklist
 ###### Front-end
-[x] Todo component  
-[x] Form to add a new todo.  
-[x] Add todo functionality.  
-[x] Delete todo functionality.  
-[ ] Edit todo functionality.  
-[ ] Responsiveness using css.  
+- [x] Todo component  
+- [x] Form to add a new todo.  
+- [x] Add todo functionality.  
+- [x] Delete todo functionality.  
+- [ ] Edit todo functionality.  
+- [ ] Responsiveness using css.  
 
 ###### Back-end
-[ ] MongoDB to store all the todos  
-[ ] Create an API to interact with the DB.  
+- [ ] MongoDB to store all the todos  
+- [ ] Create an API to interact with the DB.  
 
 #### Feel free to contribute and open any issues.
 
