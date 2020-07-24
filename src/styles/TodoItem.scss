@@ -1,0 +1,27 @@
+.todo-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 5px;
+    margin: 1px;
+    font-family: Consolas;
+    border: 1px solid rgb(1, 12, 70);
+
+    .editIcon{
+        margin-left: auto;
+        margin-right: 2em;
+        cursor: pointer;
+
+        i{
+            pointer-events:none
+        }
+    }
+
+    .deleteIcon{
+        cursor: pointer;
+
+        i{
+            pointer-events:none
+        }
+    }
+}
